@@ -1,0 +1,28 @@
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\Proyecto Koin.exe
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\Proyecto Koin.deps.json
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\Proyecto Koin.runtimeconfig.json
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\Proyecto Koin.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\Proyecto Koin.pdb
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto Koin.vbproj.AssemblyReference.cache
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto Koin.vbproj.GenerateResource.cache
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto Koin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto Koin.AssemblyInfoInputs.cache
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto Koin.AssemblyInfo.vb
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto Koin.vbproj.CoreCompileInputs.cache
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto Koin.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\refint\Proyecto Koin.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto Koin.pdb
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto Koin.genruntimeconfig.cache
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\ref\Proyecto Koin.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto Koin.vbproj.CopyComplete
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto_Koin.Home.resources
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto_Koin.Login.resources
+C:\Desarrollo de software\Proyecto Koin\Proyecto Koin\obj\Debug\net6.0-windows\Proyecto_Koin.Register.resources
